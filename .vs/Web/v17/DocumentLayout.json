@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\controllers\\valuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\controllers\\valuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\model\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\model\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|c:\\users\\user\\source\\repos\\web\\web\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F97B4910-A845-46F0-96B9-1610BB7DED4F}|Web\\Web.csproj|solutionrelative:web\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T12:05:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:36:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValueController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\Controllers\\ValueController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ValueController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\Controllers\\ValueController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ValueController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAD4vxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:07:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\Model\\LogEntry.cs",
+              "RelativeDocumentMoniker": "Web\\Model\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\Model\\LogEntry.cs",
+              "RelativeToolTip": "Web\\Model\\LogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:07:24.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T15:12:47.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\Startup.cs",
+              "RelativeDocumentMoniker": "Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\Startup.cs",
+              "RelativeToolTip": "Web\\Startup.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:29:07.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\nlog.config",
+              "RelativeDocumentMoniker": "Web\\nlog.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\nlog.config",
+              "RelativeToolTip": "Web\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T18:17:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\Web.http",
+              "RelativeDocumentMoniker": "Web\\Web.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\Web.http",
+              "RelativeToolTip": "Web\\Web.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-03T18:18:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Web\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\WeatherForecast.cs",
+              "RelativeToolTip": "Web\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:34:39.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\nlog.config",
+              "RelativeDocumentMoniker": "Web\\nlog.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\nlog.config",
+              "RelativeToolTip": "Web\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-02T12:36:20.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web\\Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web\\Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Web\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:56:58.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
